@@ -1,5 +1,5 @@
 # DatabaseProjects
-Projects for UC Berkeley Intro to Databases                                         
+Projects for Intro to Databases                                         
 (Note: the term "homework" was used interchangeably for "project" in this class, as there were no other coding assignments.) 
 
 
